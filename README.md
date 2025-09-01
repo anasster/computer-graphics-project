@@ -1,3 +1,3 @@
 # computer-graphics-project
-Computer Graphics term project series for Digital Image Processing class. \
+Computer Graphics Class term project series. \
 Department of Electrical &amp; Computers Engineering, Aristotle University of Thessaloniki
